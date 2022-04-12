@@ -1,0 +1,2 @@
+# factorypattern
+Factory pattern example
