@@ -2,9 +2,9 @@
  * Esta clase es el "Creador Base"
  * A partir de aquí se toma la decision de qué Producto Concreto se va a crear
  */
-package com.fractal.zpruebafactory.factory;
+package com.fractal.zpruebafactory.prueba1.factory;
 
-import com.fractal.zpruebafactory.vehiculo.Vehiculo;
+import com.fractal.zpruebafactory.prueba1.vehiculo.Vehiculo;
 
 /**
  *
@@ -20,10 +20,13 @@ public abstract class CreadorVehiculo {
         switch(tipo) {
             case BARCO: 
                 obtenerVehiculo().desplazarse();
+                break;
             case CARRO:
                 obtenerVehiculo().desplazarse();
+                break;
             case AVION:
                 obtenerVehiculo().desplazarse();
+                break;
             default: 
                 System.out.println("No se conoce el tipo de vehiculo");
         }

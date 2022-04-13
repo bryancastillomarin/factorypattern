@@ -2,7 +2,7 @@
  * Todas las instancias de Vehiculo, son conocidas como PRODUCTO
  * desde el punto de vista del Patrón de Diseño Factory
  */
-package com.fractal.zpruebafactory.vehiculo;
+package com.fractal.zpruebafactory.prueba1.vehiculo;
 
 /**
  *

@@ -1,10 +1,10 @@
 /**
  * Esta clase es un "Creador concreto"
  */
-package com.fractal.zpruebafactory.factory;
+package com.fractal.zpruebafactory.prueba1.factory;
 
-import com.fractal.zpruebafactory.vehiculo.BarcoVehiculo;
-import com.fractal.zpruebafactory.vehiculo.Vehiculo;
+import com.fractal.zpruebafactory.prueba1.vehiculo.BarcoVehiculo;
+import com.fractal.zpruebafactory.prueba1.vehiculo.Vehiculo;
 
 /**
  *

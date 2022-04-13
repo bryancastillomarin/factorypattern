@@ -1,7 +1,7 @@
 /**
  * Esta clase se considera un Producto Concreto
  */
-package com.fractal.zpruebafactory.vehiculo;
+package com.fractal.zpruebafactory.prueba1.vehiculo;
 
 /**
  *
